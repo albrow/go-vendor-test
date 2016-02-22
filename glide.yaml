@@ -1,0 +1,4 @@
+package: github.com/albrow/go-vendor-test
+import:
+- package: github.com/albrow/prtty
+- version: 0cf5599e21f2c414834d0e50df4d913dfd62b54b
